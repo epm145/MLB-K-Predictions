@@ -1,6 +1,6 @@
 ## Eric Martin's GitHub
 
-These pages include background documents and supporting files related the research titled Predicting Major League Baseball Strikeout Rates from Differences in Velocity and Movement Among Player Pitch Types. 
+These pages include background documents and supporting files related to the research titled Predicting Major League Baseball Strikeout Rates from Differences in Velocity and Movement Among Player Pitch Types. 
 
 ### Research Summary
 
@@ -10,31 +10,7 @@ Using PITCHf/x information for over 2.5 million MLB pitches thrown by 402 pitche
 
 Maximum pitch velocity and a pitcher’s strike rate are the most important predictors of strikeout percentage.  Both the maximum amount of vertical movement and the range of vertical movement among a pitcher’s pitches are the next most important predictors of strikeout percentage—more so than the ability to change speeds or a pitcher’s number of pitch types.  These insights may enable players to develop pitch characteristics most likely to increase strikeouts, assist coaches in identifying promising young pitchers, and ultimately help determine when pitchers should be removed from games.
 
+### 2019 MIT Sloan Sports Analytics Conference Submission
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/epm145/MLB-K-Predictions/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+An abbreviated summary of this research is available at
+http://www.sloansportsconference.com/activities/research-papers/2019-research-paper-finalists-posters/
