@@ -13,4 +13,4 @@ Maximum pitch velocity and a pitcher’s strike rate are the most important pred
 ### 2019 MIT Sloan Sports Analytics Conference Submission
 
 An abbreviated summary of this research is available at
-http://www.sloansportsconference.com/activities/research-papers/2019-research-paper-finalists-posters/
+https://assets-global.website-files.com/5f1af76ed86d6771ad48324b/5f6d38971aa75c2f6af77911_Predicting-Major-League-Baseball-Strikeout-Rates-Update.pdf
